@@ -1,0 +1,11 @@
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\bin\Debug\Socket调试助手开发.exe.config
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\bin\Debug\Socket调试助手开发.exe
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\bin\Debug\Socket调试助手开发.pdb
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.csproj.AssemblyReference.cache
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.Sever.resources
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.Properties.Resources.resources
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.csproj.GenerateResource.cache
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.csproj.CoreCompileInputs.cache
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.exe
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.pdb
+E:\visual studio\Project\Socket调试助手开发\Socket调试助手开发\obj\Debug\Socket调试助手开发.TCPClient.resources
